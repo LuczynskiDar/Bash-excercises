@@ -31,4 +31,4 @@
 * ./parameter_expansion.sh
 * ./positional_parameters.sh
 
-[In reference to Derek's Banas]:(http://www.newthinktank.com/2016/06/shell-scripting-tutorial/)<br>
+In reference to [**Derek's Banas**]:(http://www.newthinktank.com/2016/06/shell-scripting-tutorial/)<br>
