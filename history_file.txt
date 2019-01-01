@@ -1,0 +1,23 @@
+31  ./ifs.sh 
+   
+33  ./funcs
+.sh  
+39  ./ifs1
+.sh
+47  ./ifs2
+.sh
+53  ./ifs_file_checks.sh
+55  ./ifs_regex.sh
+59  ./ifs_ligin_pass.sh
+70  ./ifs3.sh
+72  ./ifs_parameter_expansions.sh
+80  ./cases.sh
+83  ./ternary.sh
+84  ./loops_while.sh
+87  ./loops_while2.sh
+89  ./loops_while3.sh
+90  ./loops_until.sh
+91  ./loops_for.sh
+96  ./parameter_expansion.sh
+104  ./arrays.sh
+121  ./positional_parameters.sh 1 2 3 4 5
