@@ -25,11 +25,10 @@
 * ./loops_for.sh
 
 > Arrays excercises
-*./arrays.sh
+* ./arrays.sh
 
->Positional paramenters and parameters expansion
+> Positional paramenters and parameters expansion
 * ./parameter_expansion.sh
 * ./positional_parameters.sh
-
 
 [In reference to Derek's Banas]: (http://www.newthinktank.com/2016/06/shell-scripting-tutorial/)
