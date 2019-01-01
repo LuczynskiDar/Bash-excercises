@@ -1,4 +1,4 @@
-# Bash excercises
+# Bash excercises [^1]
 
 > Bash function ecercises
 * ./funcs.sh
@@ -31,4 +31,9 @@
 * ./parameter_expansion.sh
 * ./positional_parameters.sh
 
-In reference to [Derek's Banas](http://www.newthinktank.com/2016/06/shell-scripting-tutorial/) page.
+[^1]: In reference to [Derek's Banas](http://www.newthinktank.com/2016/06/shell-scripting-tutorial/) page.
+
+---
+> Commands explonation and terminal stdin are located in files
+* command-test-log.txt
+* Bash_commands.txt

@@ -1,0 +1,171 @@
+12  go get -v github.com/streadway/amqp
+    
+28  iisreset
+      
+30  locate luczynski
+   
+31  updatedb
+   
+32  file audio.m4a 
+   
+33  which cal
+   
+34  which daro
+   
+35  which not
+   
+36  which not*
+   
+37  which code
+   
+38  history
+   
+39  cd
+   
+40  whatis code
+   
+41  whatis ls
+   
+42  whatis
+   
+43  apropos time
+   
+44  apropos
+   
+45  dor
+   
+46  dit
+   
+47  dir
+   
+48  clear
+   
+49  apropos
+   
+50  apropo
+   
+51  man
+   
+52  what is
+   
+53  whatis
+   
+54  dir
+   
+55  cd temp
+   
+56  mkdir junk
+   
+57  dir
+   
+58  cd junk
+   
+59  dir
+   
+60  touch file1 file2 file3
+   
+61  dir
+   
+62  cp file1 file1.bak
+   
+63  dir
+   
+64  mkdir
+   
+65  mkdir junk2
+   
+66  cp file1 junk2/file1
+   
+67  cd junk2/
+   
+68  dir
+   
+69  cd ..
+   
+70  mkdir junk3
+   
+71  rmdir junk2
+   
+72  rmdir junk3
+   
+73  dir
+   
+74  mkdir mydir1 mydir2 mdir3
+   
+75  dir
+   
+76  rmdir mydir*
+   
+77  ld
+   
+78  ls
+   
+79  cat file1
+   
+80  cat >> file2
+   
+81  cat file2
+   
+82  cat >> file1
+   
+83  cat file1 file2
+   
+84  more file1
+   
+85  more
+   
+86  more
+   
+87  less
+   
+88  clear
+   
+89  nano
+   
+90  nano file2
+   
+91  cat file2
+   
+92  cat >> file2 some more stuff
+   
+93  cat >> file2
+   
+94  nano file2
+   
+95  dir
+   
+97  nano file3
+   
+98  sudo
+   
+99  su
+  
+100  pwd
+  
+101  users
+  
+102  user
+  
+103  id
+  
+104  ls -la
+  
+105  chmod +x file1.bak
+  
+106  ls -la
+  107  
+chmod +x file1
+  
+108  ls -la
+  
+109  chmod 700 file1
+  
+110  ls -la
+  
+111  chmod u+x file1.bak 
+  
+112  ls -la
+  
+113  history > file4.txt
+
+114  date
