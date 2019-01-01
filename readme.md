@@ -24,11 +24,12 @@
 * ./loops_until.sh
 * ./loops_for.sh
 
-> Arrays
+> Arrays excercises
 *./arrays.sh
 
-> Positional paramenters and parameters expansion
+>Positional paramenters and parameters expansion
 * ./parameter_expansion.sh
 * ./positional_parameters.sh
 
-[^1]: [In reference to Derek's Banas]: (http://www.newthinktank.com/2016/06/shell-scripting-tutorial/)
+
+[In reference to Derek's Banas]: (http://www.newthinktank.com/2016/06/shell-scripting-tutorial/)
